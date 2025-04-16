@@ -108,11 +108,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jugnu/Documents/myprojects/ApiGateway/ApiGateway.csproj",
+      "projectUniqueName": "/Users/jugnu/Documents/myprojects/dotnet-api-gateway/ApiGateway.csproj",
       "projectName": "ApiGateway",
-      "projectPath": "/Users/jugnu/Documents/myprojects/ApiGateway/ApiGateway.csproj",
+      "projectPath": "/Users/jugnu/Documents/myprojects/dotnet-api-gateway/ApiGateway.csproj",
       "packagesPath": "/Users/jugnu/.nuget/packages/",
-      "outputPath": "/Users/jugnu/Documents/myprojects/ApiGateway/obj/",
+      "outputPath": "/Users/jugnu/Documents/myprojects/dotnet-api-gateway/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jugnu/.nuget/NuGet/NuGet.Config"
